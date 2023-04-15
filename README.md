@@ -9,3 +9,6 @@
 ## Clicked Barksalot
 ![image](https://user-images.githubusercontent.com/26577058/232253061-bf76936c-10d9-49bd-b042-b0b248bd9c23.png)
 
+## Dark Mode
+![image](https://user-images.githubusercontent.com/26577058/232253209-3633c447-1cae-4038-87aa-38c947592c6e.png)
+
